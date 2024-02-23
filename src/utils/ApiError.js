@@ -21,3 +21,4 @@ class ApiError extends Error {//need to standardize in way which error is sent
     }
 
 }
+export {ApiError};
